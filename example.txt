@@ -3,3 +3,5 @@ This is the second line
 This is the 3rd line
 This is bug fix 1
 This is bug fix 2
+
+This is new release 1
